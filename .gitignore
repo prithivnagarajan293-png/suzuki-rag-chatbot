@@ -1,0 +1,46 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+*.pem
+.streamlit/secrets.toml
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Old / development data
+data/chroma/
+data/gold_exports/embeddings_v1.jsonl
+data/gold_exports/embeddings_v2.jsonl
+
+# Scraping/download artifacts
+downloads/
+
+# Development scripts
+audit_*.py
+build_*.py
+canonicalize_*.py
+chunk_*.py
+clean_*.py
+deduplicate_*.py
+extract_fields.py
+parse_*.py
+price_scraper.py
+rag_advanced_cleaner.py
+rag_generation_v1.py
+rag_generation_gemini_v1.py
+rerank_retrieval_v1.py
+test_*.py
+evaluate_*.py
+validator*.py
+web_scavenger.py
+names.txt
+topics.txt
+run command.txt
