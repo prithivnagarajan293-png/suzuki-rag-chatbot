@@ -28,7 +28,7 @@
 Screenshot 2
 
 <p align="center">
-  <img src="screenshots/1.png" alt="Suzuki RAG Chatbot demo" width="850">
+  <img src="screenshots/2.png" alt="Suzuki RAG Chatbot demo" width="850">
 </p>
 ## 📌 Overview
 
